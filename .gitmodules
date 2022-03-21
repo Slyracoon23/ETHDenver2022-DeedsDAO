@@ -1,0 +1,6 @@
+[submodule "Front-app"]
+	path = Front-app
+	url = https://github.com/Slyracoon23/DeedsDao-app
+[submodule "Contracts"]
+	path = Contracts
+	url = https://github.com/balancer-labs/balancer-v2-monorepo
