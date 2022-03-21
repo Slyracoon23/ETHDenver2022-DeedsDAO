@@ -1,5 +1,5 @@
 [submodule "Front-app"]
-	path = Front-app
+	path = Front-end-app
 	url = https://github.com/Slyracoon23/DeedsDao-app
 [submodule "Contracts"]
 	path = Contracts
